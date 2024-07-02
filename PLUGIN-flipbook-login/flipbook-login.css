@@ -1,0 +1,50 @@
+#flipbook-login-table {
+  margin-top: 25px;
+}
+#flipbook-login-table th:nth-child(2) {
+  width: 100px;
+}
+#flipbook-login-table th:nth-child(3) {
+  width: 100px;
+}
+#addUserForm {
+  margin-top: 25px;
+}
+#editUserForm {
+  margin-top: 25px;
+  padding: 5px;
+  display: none;
+  background-color: rgba(3, 133, 74, 0.5);
+}
+#addUserForm button,
+#editUserForm button {
+  padding: 5px 10px;
+  color: #fff;
+  cursor: pointer;
+  background-color: #d1a803;
+  border: solid 1px #d1a803;
+}
+.edit {
+  padding: 5px 10px;
+  color: #fff;
+  cursor: pointer;
+  background-color: #03854a;
+  border: solid 1px #03854a;
+}
+.edit:hover {
+  color: #fff;
+  background-color: #014a29;
+  border: solid 1px #03854a;
+}
+.delete {
+  padding: 5px 10px;
+  color: #fff;
+  cursor: pointer;
+  background-color: #c00;
+  border: solid 1px #c00;
+}
+.delete:hover {
+  color: #fff;
+  background-color: rgb(101, 0, 0);
+  border: solid 1px #c00;
+}

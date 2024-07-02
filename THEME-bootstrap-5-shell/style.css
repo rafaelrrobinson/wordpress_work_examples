@@ -1,0 +1,136 @@
+/*
+Theme Name: Rafael Robinson
+Theme URI: https://www.rafaelrobinson.com/
+Description: Bootstrap 5 Enabled Theme.
+Version: 5.0
+Tags: Multi-Column, Responsive, Bootstrap
+*/
+
+/* -------------------------------------------------------------------------- */
+/* Redefined HTML Tags                                                        */
+/* -------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------------------- */
+/* Header                                                                     */
+/* -------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------------------- */
+/* Navigation                                                                 */
+/* -------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------------------- */
+/* Home Page Content                                                          */
+/* -------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------------------- */
+/* Single / Page / Archive                                                    */
+/* -------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------------------- */
+/* Comments                                                                   */
+/* -------------------------------------------------------------------------- */
+.comments-box {
+  margin-top: 35px;
+}
+ol.comment-list {
+  margin: 30px 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+ol.children {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+ol.comment-list li {
+  margin-bottom: 30px;
+  padding-left: 52px;
+  padding-bottom: 30px;
+  position: relative;
+  border-bottom: 1px solid #ddd;
+}
+ol.comment-list li:last-child {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border-bottom: none
+}
+ol.comment-list li .avatar {
+  top: 0;
+  left: 0;
+  position: absolute;
+  border-radius: 50%;
+}
+ol.children {
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-left: 50px;
+  border-top: 1px solid #DDD;
+}
+.comment-heading, .comment-form {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.comment-form label {
+  display: block;
+}
+.comment-metadata a {
+  color: #888;
+  font-size: 11px;
+}
+#cancel-comment-reply-link {
+  color: #C00;
+  font-size: 12px;
+}
+.form-allowed-tags code {
+  white-space: normal;
+}
+.form-submit {
+  display: none;
+}
+.left-indent {
+  padding-left: 10px;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Sidebar                                                                    */
+/* -------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------------------- */
+/* Footer                                                                     */
+/* -------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------------------- */
+/* Media Queries                                                              */
+/* -------------------------------------------------------------------------- */
+
+/* Small Devices */
+@media only screen and (min-width : 576px) {
+
+}
+
+/* Medium Devices */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Large Devices */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* X Large Devices */
+@media only screen and (min-width : 1200px) {
+
+}
+
+/* XX Large Devices */
+@media only screen and (min-width : 1400px) {
+
+}
